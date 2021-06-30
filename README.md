@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matei1337
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning C# and C++.
+- 💞️ I’m looking to collaborate on website projects using HTML5, CSS, PHP, Angular.
+- 📫 How to reach me: mail - matei@07internet.ro.
