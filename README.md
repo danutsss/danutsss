@@ -18,7 +18,7 @@
   </a>
 </p>
 
-My real name is **Matei Nicolae - Daniel**, known as **danuts** or **matei1337**. I am 21 years old, from Romania.
+<p align="center">My real name is <b>Matei Nicolae - Daniel</b>, known as <b>danuts</b> or <b>matei1337</b> I am 21 years old, from Romania.</p>
 
 <p align="center">
    <a href="https://discord.com/users/373910168670306304" target="_blank" rel="nofollow">
@@ -38,7 +38,7 @@ My real name is **Matei Nicolae - Daniel**, known as **danuts** or **matei1337**
 
 ### 💻 Tools and tech stack:
 
-* **Backend** - PHP, CodeIgniter, Pawn
+* **Backend** - PHP, CodeIgniter, Pawn, Node.js
 * **Frontend** - HTML5/CSS3, JavaScript and currently learning **Angular**
 * **Databases** - MySQL
 * **Tools** - GitHub, Git, VSCode
