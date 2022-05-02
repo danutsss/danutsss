@@ -1,4 +1,44 @@
-- 👋 Hi, I’m @matei1337
-- 👀 I’m interested in web development.
-- 💞️ I’m looking to collaborate on website projects using HTML5, CSS, PHP, Angular.
-- 📫 How to reach me: mail - matei@07internet.ro.
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=matei1337&color=blue&style=for-the-badge" target="_blank" rel="nofollow">
+    <img src="https://komarev.com/ghpvc/?username=matei1337&color=blue&style=for-the-badge" alt="Profile Views" align="center">
+  </a>
+  <br />
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/mateidaniel14/" target="_blank">
+    <img src="https://i.imgur.com/ZrXj1Qh.png" alt="Instagram" width="32" align="center">
+  </a>
+  <a href="https://discord.com/users/373910168670306304" target="_blank" rel="nofollow">
+    <img src="https://i.imgur.com/cstwXyP.png" alt="Discord" width="32" align="center">
+  </a>
+  <a href="https://www.facebook.com/danut1402/" target="_blank" rel="nofollow">
+    <img src="https://i.imgur.com/4A7maHh.png" alt="Facebok" width="32" align="center">
+  </a>
+</p>
+
+My real name is **Matei Nicolae - Daniel**, known as **danuts** or **matei1337**. I am 21 years old, from Romania.
+
+<p align="center">
+   <a href="https://discord.com/users/373910168670306304" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/373910168670306304?idle" alt="Discord Presence" align="center">
+   </a>
+</p>
+
+---
+
+### 🧑‍💻 What I do
+
+- 💼 Currently, I am working @ **ZERO SAPTE SERVICES S.R.L** as a FullStack Web Developer.
+- 👀 I am interested in web & game development.
+- 📫 You can reach me on Discord @ **danuts#4874** or via e-mail @ **matei@07internet.ro** or **matei1337@icloud.com**.
+
+---
+
+### 💻 Tools and tech stack:
+
+* **Backend** - PHP, CodeIgniter, Pawn
+* **Frontend** - HTML5/CSS3, JavaScript and currently learning **Angular**
+* **Databases** - MySQL
+* **Tools** - GitHub, Git, VSCode
