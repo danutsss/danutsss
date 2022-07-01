@@ -39,6 +39,6 @@
 ### 💻 Tools and tech stack:
 
 * **Backend** - PHP, CodeIgniter, Pawn, Node.js
-* **Frontend** - HTML5/CSS3, JavaScript and currently learning **Angular**
-* **Databases** - MySQL
+* **Frontend** - HTML5/CSS3, JavaScript and currently learning **Vue** & **Angular**
+* **Databases** - MySQL, MongoDB
 * **Tools** - GitHub, Git, VSCode
