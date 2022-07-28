@@ -42,3 +42,4 @@
 * **Frontend** - HTML5/CSS3, JavaScript and currently learning **Vue** & **Angular**
 * **Databases** - MySQL, MongoDB
 * **Tools** - GitHub, Git, VSCode
+* **CMS** - WordPress, Shopify
