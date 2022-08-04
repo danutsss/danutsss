@@ -43,3 +43,4 @@
 * **Databases** - MySQL, MongoDB
 * **Tools** - GitHub, Git, VSCode
 * **CMS** - WordPress, Shopify
+* **Project Management** - Trello
