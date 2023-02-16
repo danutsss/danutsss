@@ -41,26 +41,20 @@
 **Backend**:
 * PHP, CodeIgniter, PAWN, Node and currently learning **Laravel**
 
-
 **Frontend**
 * HTML5/CSS3, SASS, Bootstrap, TailwindCSS, JavaScript, Vue / Nuxt
-
 
 **Databases**
 * MySQL, MongoDB, PostgreSQL
 
-
 **Tools**
 * GitHub, Git, VSCode
-
 
 **CMS**
 * WordPress (+ Elementor), Shopify
 
-
 **Project Management**
 * Trello, Asana
-
 
 **Web & Mobile Design Apps**
 * Figma
