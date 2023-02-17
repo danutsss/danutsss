@@ -30,7 +30,7 @@
 
 ### 🧑‍💻 What I do
 
-- 💼 Currently, I am working @ **ZERO SAPTE SERVICES S.R.L** as a fullStack web dev.
+- 💼 Currently, I am working @ **ZERO SAPTE SERVICES S.R.L** as a fullstack web dev.
 - 👀 I am interested in web development.
 - 📫 You can reach me on Discord @ **danuts#4874** or via e-mail @ **matei@07internet.ro** or **matei1337@icloud.com**.
 
