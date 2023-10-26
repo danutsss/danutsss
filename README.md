@@ -14,7 +14,7 @@
     <img src="https://i.imgur.com/cstwXyP.png" alt="Discord" width="32" align="center">
   </a>
   <a href="https://www.facebook.com/danut1402/" target="_blank" rel="nofollow">
-    <img src="https://i.imgur.com/4A7maHh.png" alt="Facebok" width="32" align="center">
+    <img src="https://i.imgur.com/4A7maHh.png" alt="Facebook" width="32" align="center">
   </a>
 </p>
 
