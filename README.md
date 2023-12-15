@@ -32,7 +32,7 @@
 
 - 💼 Currently, I am looking for a job as a fullstack web developer.
 - 👀 I am interested in web development.
-- 📫 You can reach me on Discord @ **danuts#4874** or via e-mail @ **matei@07internet.ro** or **matei1337@icloud.com**.
+- 📫 You can reach me on Discord @ **danutsss14** or via e-mail @ **matei@07internet.ro** or **matei1337@icloud.com**.
 
 ---
 
