@@ -30,7 +30,7 @@
 
 ### 🧑‍💻 What I do
 
-- 💼 Currently, I am working @ **ZERO SAPTE SERVICES S.R.L** as a fullstack web dev.
+- 💼 Currently, I am looking for a job as a fullstack web developer.
 - 👀 I am interested in web development.
 - 📫 You can reach me on Discord @ **danuts#4874** or via e-mail @ **matei@07internet.ro** or **matei1337@icloud.com**.
 
@@ -39,22 +39,22 @@
 ### 💻 Tools and tech stack:
 
 **Backend**:
-* PHP, CodeIgniter, PAWN, Node and currently learning **Laravel**
+* PHP, PAWN, Node, and currently honing my skills in **Laravel**.
 
 **Frontend**
-* HTML5/CSS3, SASS, Bootstrap, TailwindCSS, JavaScript, Vue / Nuxt
+* Proficient in HTML5/CSS3, SASS, Bootstrap, TailwindCSS, JavaScript; experienced with Vue / Nuxt, Angular, TypeScript, and Ionic.
 
 **Databases**
-* MySQL, MongoDB, PostgreSQL
+* Well-versed in MySQL, MongoDB, PostgreSQL, and SQLite.
 
 **Tools**
-* GitHub, Git, VSCode
+* Utilizing GitHub, Git, and VSCode for efficient development.
 
 **CMS**
-* WordPress (+ Elementor), Shopify
+* Expertise in WordPress (+ Elementor) and Shopify.
 
 **Project Management**
-* Trello, Asana
+* Organizing tasks seamlessly with Trello and Asana.
 
 **Web & Mobile Design Apps**
-* Figma
+* Fluent in Figma for stunning web and mobile designs.
