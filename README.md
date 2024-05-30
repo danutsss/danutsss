@@ -1,6 +1,13 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15" height="15"> Hello!
 
 <p align="center">
+  <a href="https://komarev.com/ghpvc/?username=matei1337&color=blue&style=for-the-badge" target="_blank" rel="nofollow">
+    <img src="https://komarev.com/ghpvc/?username=matei1337&color=blue&style=for-the-badge" alt="Profile Views" align="center">
+  </a>
+  <br />
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/mateidaniel14/" target="_blank">
     <img src="https://i.imgur.com/ZrXj1Qh.png" alt="Instagram" width="32" align="center">
   </a>
