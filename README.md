@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<p align="center">My real name is <b>Matei Nicolae - Daniel</b>, known as <b>danuts</b> or <b>matei1337</b> I am 22 years old, from Romania.</p>
+<p align="center">My real name is <b>Matei Nicolae - Daniel</b>, known as <b>Danut</b>. I am a 23 years old dude, from Romania.</p>
 
 <p align="center">
    <a href="https://discord.com/users/373910168670306304" target="_blank" rel="nofollow">
