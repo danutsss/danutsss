@@ -21,12 +21,6 @@
 
 <p align="center">My real name is <b>Matei Nicolae - Daniel</b>, known as <b>Danut</b>. I am a 23 years old dude, from Romania.</p>
 
-<p align="center">
-   <a href="https://discord.com/users/373910168670306304" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/373910168670306304?idle" alt="Discord Presence" align="center">
-   </a>
-</p>
-
 ---
 
 ### 🧑‍💻 What I do
